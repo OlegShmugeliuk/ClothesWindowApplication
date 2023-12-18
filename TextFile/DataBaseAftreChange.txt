@@ -1,0 +1,171 @@
+ID: 1019
+Name: EleganceDress
+Type: Dress
+SubType: Formal
+Gender: Woman
+Size: XS, S, M
+Color: Floral
+Season: Spring/Summer
+Producer: JKL
+Cost: 89.99
+Response:
+Isabella - Stunning.
+
+ID: 1022
+Name: DenimJacket
+Type: Jacket
+SubType: Casual
+Gender: Woman
+Size: M, L, XL
+Color: Blue
+Season: Fall
+Producer: XYZ
+Cost: 79.99
+Response:
+Aaron - Stylish.
+
+ID: 1023
+Name: ChicDress
+Type: Dress
+SubType: Elegant
+Gender: Woman
+Size: S,M,L
+Color: Red
+Season: Fall/Winter
+Producer: DEF
+Cost: 69.99
+Response:
+Mark-Bold.
+
+ID: 1025
+Name: VelvetBlouse
+Type: Blouse
+SubType: Formal
+Gender: Woman
+Size: S,M,L
+Color: Purple
+Season: Winter
+Producer: JKL
+Cost: 59.99
+Response:
+Ethan-Swift.
+
+ID: 1028
+Name: DenimShirt
+Type: Shirt
+SubType: Casual
+Gender: Man
+Size: M,L,XL
+Color: Blue
+Season: Spring
+Producer: XYZ
+Cost: 54.99
+Response:
+Mason-Active.
+
+ID: 1017
+Name: SummerBlouse
+Type: Blouse
+SubType: Formal
+Gender: Woman
+Size: S, M, L
+Color: Blue
+Season: Summer
+Producer: Adidas
+Cost: 49.99
+Response:
+Sophia - Perfect.
+
+ID: 1020
+Name: CasualHoodie
+Type: Hoodie
+SubType: Casual
+Gender: Man
+Size: L, XL, XXL
+Color: Gray
+Season: Fall/Winter
+Producer: MNO
+Cost: 49.99
+Response:
+David - Cozy.
+
+ID: 1026
+Name: CozyHoodie
+Type: Hoodie
+SubType: Casual
+Gender: Man
+Size: L,XL,XXL
+Color: Brown
+Season: Fall
+Producer: MNO
+Cost: 44.99
+Response:
+Natalie-Velvet.
+
+ID: 1018
+Name: SportyTank
+Type: Tank-Top
+SubType: Sportswear
+Gender: Man
+Size: S, XL, XXL
+Color: Gray
+Season: Spring/Summer
+Producer: GHI
+Cost: 34.99
+Response:
+Alex - Ideal.
+Oleg Shm-Good clothes
+
+ID: 1027
+Name: ActiveLeggings
+Type: Leggings
+SubType: Sportswear
+Gender: Woman
+Size: S,M,L
+Color: Pink
+Season: Summer
+Producer: PQR
+Cost: 34.99
+Response:
+Olivia-Cozy.
+
+ID: 1016
+Name: SportyTank
+Type: T-Shirt
+SubType: Casual
+Gender: Man
+Size: XL,XXXL,XXXXL
+Color: Red
+Season: All
+Producer: ABC
+Cost: 29.99
+Response:
+John - Comfortable.
+Volodia Lev-Very comotable
+
+ID: 1024
+Name: SwiftShorts
+Type: Shorts
+SubType: Sporty
+Gender: Man
+Size: M,L,XL
+Color: Green
+Season: Spring
+Producer: GHI
+Cost: 29.99
+Response:
+Lily-Chic.
+
+ID: 1030
+Name: Red-Shorts
+Type: Shirt
+SubType: Sporty
+Gender: Man
+Size: L
+Color: Red
+Season: Summer
+Producer: Nike
+Cost: 29.99
+Response:
+Artur Husar-Good look
+

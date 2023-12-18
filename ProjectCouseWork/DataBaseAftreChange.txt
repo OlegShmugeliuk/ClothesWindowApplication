@@ -1,0 +1,87 @@
+ID: 1009
+Name: FloralEleganceDress
+Type: Dress
+SubType: Formal
+Gender: Woman
+Size: XS, S, M
+Color: Floral Print
+Season: Spring/Summer
+Producer: JKL Couture
+Cost: 89.99
+Response:
+Isabella Thompson - Stunning design, received many compliments.
+Sophie Lee - Fits like a dream, very pleased.
+Chris Anderson-Good
+
+ID: 1007
+Name: ElegantSummerBlouse
+Type: Blouse
+SubType: Formal
+Gender: Woman
+Size: S, M, L
+Color: Pastel Pink
+Season: Summer
+Producer: DEF Designs
+Cost: 49.99
+Response:
+Sophia Rodriguez - Perfect for work or a night out.
+Daniel Kim - Excellent craftsmanship.
+Olivia White - Lightweight and chic.
+
+ID: 1010
+Name: UrbanCasualHoodie
+Type: Hoodie
+SubType: Casual
+Gender: Man
+Size: L, XL, XXL
+Color: Urban Gray
+Season: Fall/Winter
+Producer: MNO Streetwear
+Cost: 49.99
+Response:
+David Martinez - Cozy and stylish, perfect for chilly days.
+Emma Wilson - My brother loved it, great gift!
+Jason Brown - Quality hoodie, worth the price.
+
+ID: 1008
+Name: SportyVibesTank
+Type: Tank Top
+SubType: Sportswear
+Gender: Man
+Size: S, XL, XXL
+Color: Charcoal Gray
+Season: Spring/Summer
+Producer: GHI Sports
+Cost: 34.99
+Response:
+Alex Turner - Ideal for workouts, breathable fabric.
+Amanda Clark - Stylish and great for active days.
+Ryan Miller - Fits perfectly, would buy again.
+
+ID: 1006
+Name: ClassicBlueTee
+Type: T-Shirt
+SubType: Casual
+Gender: Man
+Size: M, L, XL
+Color: Classic Blue
+Season: All Seasons
+Producer: ABC Apparel
+Cost: 29.99
+Response:
+John Smith - Comfortable and stylish.
+Emily Davis - Love the quality and fit.
+Michael Johnson - Great value for the price.
+
+ID: 10011
+Name: T-Short
+Type: Dress
+SubType: Formal
+Gender: Man
+Size: XL,X,M
+Color: blue
+Season: Sammer
+Producer: HandM
+Cost: 2.3
+Response:
+

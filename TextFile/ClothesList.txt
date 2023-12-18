@@ -1,0 +1,182 @@
+ID: 1016
+Name: SportyTank
+Type: T-Shirt
+SubType: Casual
+Gender: Man
+Size: M, L, XL
+Color: Blue
+Season: All
+Producer: ABC
+Cost: 29.99
+Response:
+John Cozy - Comfortable.
+
+ID: 1017
+Name: SummerBlouse
+Type: Blouse
+SubType: Formal
+Gender: Woman
+Size: S, M, L
+Color: Pink
+Season: Summer
+Producer: DEF
+Cost: 49.99
+Response:
+Sophia Flawless - Perfect.
+
+ID: 1018
+Name: SportyTank
+Type: Tank-Top
+SubType: Sportswear
+Gender: Man
+Size: S, XL, XXL
+Color: Gray
+Season: Spring/Summer
+Producer: GHI
+Cost: 34.99
+Response:
+Alex Bouldvin- Ideal.
+
+ID: 1019
+Name: EleganceDress
+Type: Dress
+SubType: Formal
+Gender: Woman
+Size: XS, S, M
+Color: Floral
+Season: Spring/Summer
+Producer: JKL
+Cost: 89.99
+Response:
+Isabella Kingsto - Stunning.
+
+ID: 1020
+Name: CasualHoodie
+Type: Hoodie
+SubType: Casual
+Gender: Man
+Size: L, XL, XXL
+Color: Gray
+Season: Fall/Winter
+Producer: MNO
+Cost: 49.99
+Response:
+David Smit- Cozy.
+
+ID: 1021
+Name: ActiveShorts
+Type: Shorts
+SubType: Sportswear
+Gender: Man
+Size: M, L, XL
+Color: Blue
+Season: Spring/Summer
+Producer: PQR
+Cost: 24.99
+Response:
+Brian Morphi- Comfortable.
+
+ID: 1022
+Name: DenimJacket
+Type: Jacket
+SubType: Casual
+Gender: Woman
+Size: M, L, XL
+Color: Blue
+Season: Fall
+Producer: XYZ
+Cost: 79.99
+Response:
+Aaron Shmugeliuk- Stylish.
+
+ID: 1023
+Name:BoldTee
+Type:Tee
+SubType:Active
+Gender:Man
+Size:S,M,L
+Color: Black
+Season:All
+Producer:ABC
+Cost:39.99
+Response:
+Mark Nich-Bold.
+
+ID: 1024
+Name: ChicDress
+Type: Dress
+SubType: Elegant
+Gender: Woman
+Size: S,M,L
+Color: Red
+Season: Fall/Winter
+Producer: DEF
+Cost: 69.99
+Response:
+Lily Husar-Chic.
+
+ID: 1025
+Name: SwiftShorts
+Type: Shorts
+SubType: Sporty
+Gender: Man
+Size: M,L,XL
+Color: Green
+Season: Spring
+Producer: GHI
+Cost: 29.99
+Response:
+Ethan Labai-Swift.
+
+ID: 1026
+Name: VelvetBlouse
+Type: Blouse
+SubType: Formal
+Gender: Woman
+Size: S,M,L
+Color: Purple
+Season: Winter
+Producer: JKL
+Cost: 59.99
+Response:
+Natalie Lev-Velvet.
+
+ID: 1027
+Name: CozyHoodie
+Type: Hoodie
+SubType: Casual
+Gender: Man
+Size: L,XL,XXL
+Color: Brown
+Season: Fall
+Producer: MNO
+Cost: 44.99
+Response:
+Olivia Energetic-Cozy.
+
+ID: 1028
+Name: ActiveLeggings
+Type: Leggings
+SubType: Sportswear
+Gender: Woman
+Size: S,M,L
+Color: Pink
+Season: Summer
+Producer: PQR
+Cost: 34.99
+Response:
+Mason Energetic-Active.
+
+ID: 1029
+Name: DenimShirt
+Type: Shirt
+SubType: Casual
+Gender: Man
+Size: M,L,XL
+Color: Blue
+Season: Spring
+Producer: XYZ
+Cost: 54.99
+Response:
+Emma Dynamo-Denim.
+
